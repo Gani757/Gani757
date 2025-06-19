@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning **Python,statistics, Pandas, and NumPy**, **DATA ANALYSIS USING PYTHON**
 - 💞️ I’m looking to collaborate on **data analysis projects and beginner-friendly open source**  
 - 📫 How to reach me: [7093299525ok@gmail.com
-] or [www.linkedin.com/in/n-ganesh-ba0635231
-
-]  
+] or [www.linkedin.com/in/nenavath-ganesh-ba0635231]  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning messy data into meaningful insights!
 
