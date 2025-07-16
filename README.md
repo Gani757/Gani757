@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gani757  
 - 👀 I’m interested in **Data Analytics**, **Python**, and **Business Intelligence**  
-- 🌱 I’m currently learning **Python,statistics, Pandas, and NumPy**, **DATA ANALYSIS USING PYTHON**
+- 🌱 I’m currently learning **Python,statistics, Pandas,matplotlib,seaborn and NumPy**, **DATA ANALYSIS USING PYTHON**
 - 💞️ I’m looking to collaborate on **data analysis projects and beginner-friendly open source**  
 - 📫 How to reach me: [7093299525ok@gmail.com
 ] or [www.linkedin.com/in/nenavath-ganesh-ba0635231]  
